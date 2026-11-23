@@ -1,9 +1,0 @@
-Budget MANAGEMENT SYSTEM
-
-January 1:
-Budget: 1500€
-ID: 2026001
-
-April 4:
-Budget: 18000€
-ID: 2026002
